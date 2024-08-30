@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Philipp M. Richter"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
-  location         : "Würzburg, Germany"
-  employer         : "JMU Würzburg"
+  bio              : "Postdoctoral Researcher at JMU Würzburg"
+  location         : "Sanderring 2, 97070 Würzburg, Germany"
+  employer         : # "JMU Würzburg"
   uri              : # URL
   email            : "philipp.richter@uni-wuerzburg.de" 
 
