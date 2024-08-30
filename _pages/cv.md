@@ -19,7 +19,7 @@ Employment
 Education
 ======
 * Ph.D in , 2015
-* M.S. in Jekyll, GitHub University, 2014
+* 
 
 
 
