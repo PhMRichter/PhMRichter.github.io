@@ -26,7 +26,7 @@ You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRic
   <li>
    Interim Professor, Chair of International Economics, TU Dresden, 04/2020 - 09/2020
   </li>
-  <li>a
+  <li>
    Assistant Professor (non-tenure-track) of International Economic Policy, TU Dresden, 10/2015 - 08/2022
   </li>  
   <li>
