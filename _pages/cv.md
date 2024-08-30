@@ -15,6 +15,19 @@ You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRic
 
 <h2 style="font-size: 20px;">Employment</h2>
 
-* Post-Doc, Chair of Quantitative International and Environmental Economics, University of Würzburg
 
+<ul  style="font-size: 0.9em;">
+  <li>
+   Post-Doc, Chair of Quantitative International and Environmental Economics, University of Würzburg
+  </li>
+  <li>
+  afa
+  </li>
+  <li>a
+    asf
+  </li>  
+  <li>
+   fasf
+  </li>
+</ul>
   
