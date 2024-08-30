@@ -12,14 +12,8 @@ redirect_from:
 You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRichter_May2024.pdf).
 
 
-Employment
-======
-* Post-doc
 
-Education
-======
-* Ph.D in , 2015
-* 
+<h2 style="font-size: 20px;">Employment</h2>
 
 
 
