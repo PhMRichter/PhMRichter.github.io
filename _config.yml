@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Trade and Environmental Economist" #"Philipp M. Richter / Trade and Environmental Economist"
+title                    : "Philipp M. Richter - Trade and Environmental Economist" #"Philipp M. Richter / Trade and Environmental Economist"
 title_separator          : "-"
 name                     : "Philipp M. Richter"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "PhMRichter/PhMRichter.github.io"
 author:
   # Biographic information
   avatar           : "PhilippMRichter_lq.jpg"
-  name             : "Philipp M. Richter"
+  name             : "PMR" #"Philipp M. Richter"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at the Chair of Quantitative International and Environmental Economics at JMU"
   location         : "Würzburg, Germany "# "Sanderring 2, 97070 Würzburg, Germany"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=sUTyjKUAAAAJ&hl=de"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5581-9713"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
