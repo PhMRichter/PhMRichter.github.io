@@ -19,6 +19,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Workshops"
+    url: /workshops/  
+
     
 #  - title: "Portfolio"
 #    url: /portfolio/
