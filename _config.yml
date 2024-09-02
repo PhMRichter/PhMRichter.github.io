@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Philipp M. Richter - Trade and Environmental Economist" #"Philipp M. Richter / Trade and Environmental Economist"
+title                    : "Philipp M. Richter" # "Philipp M. Richter - Trade and Environmental Economist" #"Philipp M. Richter / Trade and Environmental Economist"
 title_separator          : "-"
 name                     : "Philipp M. Richter"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "PhMRichter/PhMRichter.github.io"
 author:
   # Biographic information
   avatar           : "PhilippMRichter_lq.jpg"
-  name             : "PMR" #"Philipp M. Richter"
+  name             : "PMR: Trade and Environmental Economist" #"Philipp M. Richter"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at the Chair of Quantitative International and Environmental Economics at JMU"
   location         : "Würzburg, Germany "# "Sanderring 2, 97070 Würzburg, Germany"
