@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRichter_May2024.pdf).
+You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRichter_Sep2024.pdf).
 
 
 
