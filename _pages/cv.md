@@ -18,7 +18,7 @@ You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRic
 
 <ul  style="font-size: 0.9em;">
   <li>
-   Post-Doc, Chair of Quantitative International and Environmental Economics, Julius-Maximilians-Universität of Würzburg, since 11/2023
+   Post-Doc, Chair of Quantitative International and Environmental Economics, JMU Würzburg, since 11/2023
   </li>
   <li>
    Visiting Professor of Economics, University of Mannheim, 09/2022 - 08/2023
