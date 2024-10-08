@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 
-I am an economist focused on the intersection of international trade and the environment, specifically examining the role of firm heterogeneity.
-My research takes a micro-level approach, combining theoretical frameworks and empirical analysis using German firm-level data, with a new emphasis on quantitative modeling.
+
+I am an economist specializing in the intersection of international trade and environmental economics, with a particular focus on firm heterogeneity.
+<!--I am an economist focused on the intersection of international trade and the environment, specifically examining the role of firm heterogeneity.-->
+My research adopts a micro-level approach, combining theory and empirics with German firm-level data, and recently incorporates quantitative modeling.
 <!-- My research takes a micro-level approach, investigating how firm heterogeneity influences the relationship between trade and environmental outcomes. 
 -->
 
