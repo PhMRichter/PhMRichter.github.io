@@ -15,6 +15,13 @@ My research takes a micro-level approach, investigating the role of firm heterog
 My work has been published in leading journals such as the  <i>Journal of the Association of Environmental and Resource Economists</i>, the <i>Journal of International Economics</i>,  the <i>European Economic Review</i>, the <i>Review of Environmental Economics and Policy</i>, the <i>Review of International Economics</i>, and <i>Energy Economics</i>.
 
 Currently, I am a postdoctoral researcher at the  <a href="https://www.wiwi.uni-wuerzburg.de/en/" target="_blank">
-Faculty of Business Management and Economics at JMU Würzburg</a> at the <a href="https://www.wiwi.uni-wuerzburg.de/qiee/" target="_blank"> Chair of Quantitative International and Environmental Economics</a>. I am also a CESifo Research Network Affiliate, a DIW Berlin Research Fellow, and Kiel Centre for Globalization (KCG) External Research Fellow.
+Faculty of Business Management and Economics at JMU Würzburg</a> at the <a href="https://www.wiwi.uni-wuerzburg.de/qiee/" target="_blank"> Chair of Quantitative International and Environmental Economics</a>. I am also a <a href="https://www.cesifo.org/en/research-network" target="_blank">
+CESifo Research Network</a>  Affiliate, a <a href="https://www.diw.de/sixcms/detail.php?id=diw_01.c.617916.en" target="_blank">
+DIW Berlin</a>  Research Fellow, and <a href="https://www.kcg-kiel.org/" target="_blank">
+Kiel Centre for Globalization (KCG)</a> External Research Fellow.
 
-I received my Ph.D. in economics from TU Berlin within the DIW Graduate Center. I was a Visiting Professor of Economics at the University of Mannheim and an Assistant Professor, as well as Interim Professor at TU Dresden. 
+I received my Ph.D. in economics from <a href="https://www.tu.berlin/en/wm" target="_blank">
+TU Berlin</a>  within the <a href="https://www.diw.de/de/diw_01.c.619412.de/graduate_center.html" target="_blank">
+DIW Graduate Center</a>. I was a Visiting Professor of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">
+University of Mannheim</a>  and an Assistant Professor and Interim Professor at <a href="https://tu-dresden.de/bu/wirtschaft?set_language=en" target="_blank">
+ TU Dresden</a>. 
