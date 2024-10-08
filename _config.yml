@@ -25,7 +25,7 @@ author:
   name             : "PMR: Trade and Environmental Economist" #"Philipp M. Richter"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at the Chair of Quantitative International and Environmental Economics at JMU"
-  location         : "Würzburg, Germany"# "Sanderring 2, 97070 Würzburg, Germany"  <a href="https://www.wuerzburg.de/en" target="_blank">Würzburg, Germany</a>
+  location         : "<a href="https://www.wuerzburg.de/en" target="_blank">Würzburg, Germany</a>" #"Würzburg, Germany"# "Sanderring 2, 97070 Würzburg, Germany"  <a href="https://www.wuerzburg.de/en" target="_blank">Würzburg, Germany</a>
   employer         : # "JMU Würzburg"
   uri              : # URL
   email            : "philipp.richter@uni-wuerzburg.de" 
