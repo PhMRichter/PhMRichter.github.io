@@ -17,11 +17,13 @@ main:
 #  - title: "Talks"
 #   url: /talks/
 
-#  - title: "Econ Policy Advice"
-#    url: /econpol/  
+#  
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Econ Policy"
+    url: /econpol/  
 
   - title: "Workshops"
     url: /workshops/  
