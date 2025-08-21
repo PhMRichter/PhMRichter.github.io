@@ -17,6 +17,9 @@ You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRic
 
 
 <ul  style="font-size: 0.9em;">
+   <li>
+   Acting Chair of Quantitative Economics, University of Mannheim, since 08/2025
+  </li>
   <li>
    Post-Doc, Chair of Quantitative International and Environmental Economics, JMU Würzburg, since 11/2023
   </li>
@@ -24,7 +27,7 @@ You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRic
    Visiting Professor of Economics, University of Mannheim, 09/2022 - 08/2023
   </li>
   <li>
-   Interim Professor, Chair of International Economics, TU Dresden, 04/2020 - 09/2020
+   Acting Chair of International Economics, TU Dresden, 04/2020 - 09/2020
   </li>
   <li>
    Assistant Professor (non-tenure-track) of International Economic Policy, TU Dresden, 10/2015 - 08/2022
