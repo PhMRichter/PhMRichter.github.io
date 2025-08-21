@@ -17,7 +17,8 @@ My research adopts a micro-level approach, combining theory and empirics with Ge
 
 My work has been published in leading journals, including the  <i>Journal of the Association of Environmental and Resource Economists</i>, <i>Journal of International Economics</i>,  <i>European Economic Review</i>, <i>Review of Environmental Economics and Policy</i>, <i>Review of International Economics</i>, and <i>Energy Economics</i>.
 
-Currently, I am a postdoctoral researcher at the  <a href="https://www.wiwi.uni-wuerzburg.de/en/" target="_blank">
+Currently, I am acting chain of quantitative economics at <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">
+University of Mannheim</a> and postdoctoral researcher at the  <a href="https://www.wiwi.uni-wuerzburg.de/en/" target="_blank">
 Faculty of Business Management and Economics at JMU Würzburg</a> at the <a href="https://www.wiwi.uni-wuerzburg.de/qiee/" target="_blank"> Chair of Quantitative International and Environmental Economics</a>. I am also a <a href="https://www.cesifo.org/en/research-network" target="_blank">
 CESifo Research Network</a>  Affiliate, a <a href="https://www.diw.de/sixcms/detail.php?id=diw_01.c.617916.en" target="_blank">
 DIW Berlin</a>  Research Fellow, and <a href="https://www.kcg-kiel.org/" target="_blank">
