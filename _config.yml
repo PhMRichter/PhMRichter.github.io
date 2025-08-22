@@ -24,7 +24,7 @@ author:
   avatar           : "PhilippMRichter_lq.jpg"
   name             : "PMR: Trade and Environmental Economist" #"Philipp M. Richter"
   pronouns         : # example: "she/her"  
-  bio              : "Acting Chair of Quantitative Economics at the University of Mannheim <br> Postdoctoral researcher at the Chair of Quantitative International and Environmental Economics at JMU Würzburg"
+  bio              : "Acting Chair of Quantitative Economics at the University of Mannheim <br> Postdoc at JMU Würzburg" # Postdoctoral researcher at the Chair of Quantitative International and Environmental Economics at JMU Würzburg"
   location         : "Mannheim & Würzburg, Germany"  # "Sanderring 2, 97070 Würzburg, Germany"  <a href="https://www.wuerzburg.de/en" target="_blank">Würzburg, Germany</a>
   employer         : # "JMU Würzburg"
   uri              : # URL
