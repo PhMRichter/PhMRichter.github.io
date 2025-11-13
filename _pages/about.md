@@ -15,7 +15,7 @@ My research takes a micro-level approach, combining theoretical and empirical me
 <!-- My research takes a micro-level approach, investigating how firm heterogeneity influences the relationship between trade and environmental outcomes. 
 -->
 
-My research has been published in journals including the  <i>Journal of the Association of Environmental and Resource Economists</i>, <i>Journal of International Economics</i>,  <i>European Economic Review</i>, <i>Review of Environmental Economics and Policy</i>, <i>Review of International Economics</i>, and <i>Energy Economics</i>.
+My research has been published in journals including the <i>Journal of International Economics</i>, <i>Journal of the Association of Environmental and Resource Economists</i>,   <i>European Economic Review</i>, <i>Review of Environmental Economics and Policy</i>, <i>Review of International Economics</i>, and <i>Energy Economics</i>.
 
 I currently serve as Acting Chair of Quantitative Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">
 University of Mannheim</a> and as a postdoctoral researcher at the <a href="https://www.wiwi.uni-wuerzburg.de/en/" target="_blank">
