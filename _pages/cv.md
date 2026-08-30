@@ -18,10 +18,13 @@ You can find my [full CV here](https://phmrichter.github.io/files/CV_PhilippMRic
 
 <ul  style="font-size: 0.9em;">
    <li>
-   Acting Chair of Quantitative Economics, University of Mannheim, since 08/2025
+   Visiting Professor of Economics, University of Mannheim, since 08/2026
   </li>
   <li>
    Post-Doc, Chair of Quantitative International and Environmental Economics, JMU Würzburg, since 11/2023
+  </li>
+   <li>
+   Acting Chair of Quantitative Economics, University of Mannheim, 08/2025 - 07/2026
   </li>
   <li>
    Visiting Professor of Economics, University of Mannheim, 09/2022 - 08/2023
